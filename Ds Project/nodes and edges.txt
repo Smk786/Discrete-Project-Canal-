@@ -1,0 +1,40 @@
+INDUS RIVER CANAL (NODE 1)
+EDGES:-
+Rohri canal ,
+Nara canal , 
+Rice Canal,  
+Dadu Canal ( Sukkur Barrage) 
+Karachi canal, 
+Ghooni Canal,
+Kachhi canal, 
+Taunsa Panjnud canal, 
+D.G Khan Canal (Taunsa Barrage)
+Chashma-Jhelum link canal, 
+Chashma right bank canal (Chashma Barrage)
+Ghazi Barotha canal
+
+JHELUM RIVER CANAL ( NODE 2)
+EDGES:-
+Upper Jhelum canal, lower Jhelum canal,
+Rasul-Qadirabad link canal, Chashma Jhelum link canal, 
+
+CHENAB RIVER CANAL (NODE 3)
+EDGES:-
+Lower Chenab canal, Qadirabad-Baloki link Canal
+
+SUTLEJ RIVER CANAL  (NODE 4)
+EDGES:-
+Baloki-Suleimanki link canal, Islam and Feroze wala Headwork. 
+
+RAVI RIVER CANAL (NODE 5)
+EDGES:-
+Nandi pur canal,
+Marala-Ravi link canal,
+Lower Chenab canal, Upper Chenab canal,
+Palkhu canal,
+Lower Bari Doab,
+Upper Bari Doab,
+Qadirabad-Baloki link Canal,
+Baloki-suleimanki canal, Sidhnai Canal,
+Bedian canal.
+
